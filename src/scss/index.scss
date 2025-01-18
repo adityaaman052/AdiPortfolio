@@ -1,3 +1,4 @@
-@import "./variables";
-@import "./components/";
-@import "./sections/";
+// After
+@use "./variables" as *;   // Import variables globally
+@use "./sections" as *;    // Import sections globally
+@use "./components" as *;  // Import components globally

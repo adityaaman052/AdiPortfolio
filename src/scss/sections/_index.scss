@@ -1,8 +1,8 @@
-@import "main";
-@import "navbar";
-@import "hero";
-@import "about";
-@import "expereince";
-@import "projects";
-@import "contact";
-@import "footer";
+@use "./main";
+@use "./navbar";
+@use "./hero";
+@use "./about";
+@use "./expereince";
+@use "./projects";
+@use "./contact";
+@use "./footer";

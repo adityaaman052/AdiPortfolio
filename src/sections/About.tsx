@@ -50,10 +50,10 @@ function About() {
             >
               SmartScope,
             </Link>
-            &nbsp;aimed at enhancing AI Integration skills.
+            aimed at enhancing AI Integration skills.
           </p>
           <p className="about-grid-info-text">
-            Here are a few technologies I&rsquo;ve been working with recently:
+            Here are a few technologies I have been working with recently:
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>

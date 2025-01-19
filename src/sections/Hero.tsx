@@ -65,8 +65,8 @@ function Hero() {
             delay: 1.2,
           }}
         >
-          Skilled in building responsive interfaces with React and Tailwind CSS and developing robust backends with Node.js and MongoDB. I create seamless, secure, and engaging&nbsp;
-          <Link href="#" target="_blank" className="link">
+          Skilled in building responsive interfaces with React and Tailwind CSS and developing robust backends with Node.js and MongoDB. I create seamless, secure, and engaging
+          <Link href="https://github.com/adityaaman052" target="_blank" className="link">
             digital experiences.
           </Link>
         </motion.p>

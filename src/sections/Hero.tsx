@@ -52,7 +52,7 @@ function Hero() {
             delay: 0.9,
           }}
         >
-          I'm a full-stack web developer,
+          I&apos;m a full-stack web developer,
         </motion.h3>
 
         <motion.p

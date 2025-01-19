@@ -33,7 +33,7 @@ function About() {
           </p>
           <p className="about-grid-info-text">
             I specialize in React, Node.js, and MongoDB, creating seamless user experiences and robust backend systems. My projects include a{" "}
-            <Link href="#" className="link" target="_blank">
+            <Link href="https://github.com/adityaaman052" className="link" target="_blank">
               crowdfunding platform with secure payments and a real-time chatting app.
             </Link>
           </p>
@@ -46,7 +46,7 @@ function About() {
             <Link
               className="link"
               target="_blank"
-              href="#"
+              href="https://github.com/adityaaman052"
             >
               SmartScope,
             </Link>

@@ -8,27 +8,27 @@ function Projects() {
   const projectsData = [
     {
       image: "/project1.png",
-      projectName: "Pokedex",
-      projectLink: "https://netlify.com",
+      projectName: "Cheers",
+      projectLink: "#",
       projectDescription:
-        "This is a web application that uses the PokeAPI to display information about different Pokemon, including their evolution levels and details. You can compare multiple Pokemon using a queue, and add them to your personal list using Firebase's Firestore database.",
-      projectTech: [
-        "React",
+     "Cheers is a crowdfunding platform built with Next.js that enables users to raise funds for various causes. It features secure payment integration, allowing seamless contributions, and provides an easy-to-use interface for managing campaigns and donations."   ,
+        projectTech: [
+        "Next Js",
         "Redux Toolkit",
-        "SCSS",
-        "Firebase",
-        "Typescript",
-        "PokeApi",
+        "React",
+        "MongoDb",
+        "Razorpay",
+        "Tailwind CSS",
       ],
       projectExternalLinks: {
-        github: "",
+        github: "https://github.com/adityaaman052/CheersCrowdFunding",
         externalLink: "",
       },
     },
     {
       image: "/project2.png",
       projectName: "Realtime Chat App",
-      projectLink: "https://netlify.com",
+      projectLink: "#",
       projectDescription:
         "This is a chat app made with React and Node.js that sends real-time messages and is highly scalable. It uses advanced JavaScript concepts like debouncing and is optimized for React. It has 300+ stars on GitHub and over 180k views on YouTube.",
       projectTech: [
@@ -40,23 +40,24 @@ function Projects() {
         "Styled Components",
       ],
       projectExternalLinks: {
-        github: "",
+        github: "https://github.com/adityaaman052/AdityaChat",
         externalLink: "",
       },
     },
     {
       image: "/project3.png",
-      projectName: "Netflix App",
-      projectLink: "https://netlify.com",
+      projectName: "BookStore App",
+      projectLink: "#",
       projectDescription:
-        "I made a Netflix copy with TMBD Api. It has infinite scrolling and lets you watch movies by genre. You can also add movies to your favorites list.",
+        "I created a BookstoreWeb app where users can browse and purchase books, explore genres, and manage their favorites list for easy access to their top picks.",
       projectTech: [
         "React",
         "Node.js",
-        "Firebase",
+        "Tailwind CSs",
+        "Pytorch",
         "MongoDB",
         "Express",
-        "Redux Toolkit",
+        "Open AI API",
       ],
       projectExternalLinks: {
         github: "",
@@ -77,7 +78,7 @@ function Projects() {
           hidden: { opacity: 0, y: 0 },
         }}
       >
-        <h2>Some Things I’ve Built</h2>
+        <h2>Projects I have crafted</h2>
       </motion.div>
       <div className="projects-container">
         {projectsData.map(

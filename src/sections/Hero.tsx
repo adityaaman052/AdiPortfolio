@@ -52,7 +52,7 @@ function Hero() {
             delay: 0.9,
           }}
         >
-          I craft things for the web.
+          I'm a full-stack web developer,
         </motion.h3>
 
         <motion.p
@@ -65,11 +65,9 @@ function Hero() {
             delay: 1.2,
           }}
         >
-          I&apos;m a software engineer with expertise in creating top-notch
-          digital experiences. Currently, I&apos;m focused on developing
-          accessible and user-centered products at&nbsp;
-          <Link href="https://rapidops.com" target="_blank" className="link">
-            Rapidops.
+         Skilled in building responsive interfaces with React and Tailwind CSS and developing robust backends with Node.js and MongoDB. I create seamless, secure, and engaging &nbsp;
+          <Link href="#" target="_blank" className="link">
+            digital experiences.
           </Link>
         </motion.p>
 
@@ -83,7 +81,7 @@ function Hero() {
             delay: 1.5,
           }}
         >
-          <Button text="Check out my course" link="https://youtube.com/kishansheth21" />
+          <Button text="See My Journey" link="#" />
         </motion.div>
       </motion.div>
     </div>

@@ -28,49 +28,47 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Bonjour! My name is Aditya Aman, and I am passionate about creating
-            digital content for the web. My interest in web development was
-            sparked in 2016 when I created my first project called Lavish, a
-            social media app built using React and Node.js.
-          </p>
+          Greetings! I'm Aditya Aman. I’m passionate about transforming complex ideas into intuitive digital solutions, with a focus on innovation and exceptional user experiences in web development.          </p>
           <p className="about-grid-info-text">
-            Fast-forward to today, I specialize in designing and developing
-            high-quality solutions that delight our clients and exceed their
-            expectations at{" "}
-            <Link href="https://rapidops.com" className="link" target="_blank">
-              Rapidops.
+          I specialize in React, Node.js, and MongoDB, creating seamless user experiences and robust backend systems. My projects include a{" "}
+            <Link href="#" className="link" target="_blank">
+            crowdfunding platform with secure payments and a real-time chatting app.
             </Link>
           </p>
 
           <p className="about-grid-info-text">
-            Additionally, I share my knowledge and passion with the world
-            through my YouTube channel, where I demonstrate how to build
-            full-stack applications.
+          Beyond coding, I bring strong problem-solving, adaptability, and communication skills to every project. I'm currently exploring advanced technologies like TypeScript, Next.js, and GSAP to refine my craft and embrace new challenges.
           </p>
           <p className="about-grid-info-text">
             I am also working on a new project called&nbsp;
             <Link
               className="link"
               target="_blank"
-              href="https://frontendvita.com"
+              href="#"
             >
-              FrontendVita,
+              SmartScope,
             </Link>
-            &nbsp;aimed at enhancing frontend development skills.
+            &nbsp;aimed at enhancing AI Integration skills.
           </p>
           <p className="about-grid-info-text">
             Here are a few technologies I’ve been working with recently:
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>
-            <li className="about-grid-info-list-item">React Native</li>
             <li className="about-grid-info-list-item">Next.js</li>
+            <li className="about-grid-info-list-item">GSAP,Framer Motion</li>
             <li className="about-grid-info-list-item">Typescript</li>
-            <li className="about-grid-info-list-item">Redux Toolkit</li>
-            <li className="about-grid-info-list-item">Node.js</li>
-            <li className="about-grid-info-list-item">Elasticsearch</li>
-            <li className="about-grid-info-list-item">Kibana</li>
-            <li className="about-grid-info-list-item">CSS</li>
+            <li className="about-grid-info-list-item">JWT,OAuth</li>
+            <li className="about-grid-info-list-item">Tailwind,CSS</li>
+            <li className="about-grid-info-list-item">Node.js,Express.js</li>
+            <li className="about-grid-info-list-item">Git,Github</li>
+            <li className="about-grid-info-list-item">MongoDb,MySQL,Firebase</li>
+            <li className="about-grid-info-list-item">Postman</li>
+            <li className="about-grid-info-list-item">GraphQL</li>
+            <li className="about-grid-info-list-item">RestAPI,WebSockets</li>
+            <li className="about-grid-info-list-item">JavaScript</li>
+            <li className="about-grid-info-list-item">Java,Python</li>
+            <li className="about-grid-info-list-item">UI/UX design</li>
           </ul>
         </div>
         <div className="about-grid-photo">

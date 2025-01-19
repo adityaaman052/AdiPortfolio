@@ -14,63 +14,71 @@ function Experience() {
 
   const expereinces = [
     {
-      name: "Rapidops",
-      role: "Full Stack Developer",
-      url: "https://www.rapidops.com",
-      start: "January 2021",
-      end: "Present",
+      name: "Mass InfoSolution",
+      role: "Full Stack Intern",
+      url: "https://www.misspl.co.in",
+      start: "May 2024",
+      end: "Aug 2024",
       shortDescription: [
-        "I had experience working on a large codebase utilizing Kibana and Elasticsearch.",
-        "Throughout my work, I've utilized various MERN stack technologies, including React, Redux, TypeScript, Node.js, Hapi, and Elasticsearch, among others.",
-        "I've also managed a small team that includes Frontend Developers, Backend Developers, and UI/UX Developers.",
+"I gained valuable experience working on a large codebase utilizing Kibana and Elasticsearch.",
+
+"Throughout my tenure, I worked extensively with MERN stack technologies, including React, Redux, TypeScript, Node.js, Hapi, and Elasticsearch.",    
+   "I worked on payment integration with a kiosk in Patna Municipal Corporation, ensuring seamless transactions and system functionality.",
         "Additionally, I've represented the company in client meetings, communicating effectively on their behalf.",
       ],
     },
     {
-      name: "Youtube",
-      role: "Content Creator",
-      url: "https://www.youtube.com/kishansheth21",
-      start: "April 2021",
+      name: "Chegg",
+      role: "Subject Matter Expert",
+      url: "https://www.chegg.com",
+      start: "Oct 2023",
       end: "Present",
       shortDescription: [
-        "Upon graduating in 2021, I began creating content on YouTube, with the aim of enhancing my skills and working with the latest technologies, specifically React and Node.",
-        "Over time, I have developed and shared over 50 projects using React on my channel.",
-        "As a result, my channel has gained a substantial following, with over 11,000 subscribers to date. I have also had the pleasure of collaborating with various brands throughout my journey.",
+       "I worked as a Subject Matter Expert in Advanced Mathematics at Chegg India, where I helped students understand complex concepts and solve challenging problems.",
+
+"By providing detailed explanations and tailored solutions, I assisted students in improving their academic performance and deepening their understanding of mathematics.",
+
+"This experience not only enhanced my teaching skills but also helped me improve my freelancing abilities, allowing me to manage time effectively and provide high-quality work to clients.",
       ],
     },
     {
-      name: "ACES",
-      role: "President",
-      url: "https://www.linkedin.com/company/association-of-computer-engineering-students/",
-      start: "November 2019",
-      end: "November 2020",
+      name: "SEDS,CUSAT",
+      role: "Website Tech Member",
+      url: "http://www.sedscusat.org",
+      start: "April 2024",
+      end: "Present",
       shortDescription: [
-        "As the elected President of the ACES Departmental Club, I successfully led a team of board members and executive committee members to organize and execute multiple events throughout the year.",
-        "Additionally, I secured sponsorships from reputable brands to support our events.",
-        "Overall, it was a rewarding experience that allowed me to develop my leadership skills while contributing positively to the growth of the organization.",
+        "As a Tech team member at SEDS, CUSAT, I contribute to maintaining the organization's website, ensuring smooth functionality and a seamless user experience.",
+
+"I focus on adding engaging animations and implementing new updates, using technologies like React and GSAP to enhance the website’s interactivity and design.",
+
+"This role has sharpened my web development skills while giving me hands-on experience in teamwork, problem-solving, and staying up-to-date with the latest web trends.",
       ],
     },
     {
-      name: "ISTE",
-      role: "Web Developer",
-      url: "https://www.linkedin.com/company/association-of-computer-engineering-students/",
-      start: "November 2019",
-      end: "November 2020",
+      name: "Google Dev Group",
+      role: "Hackathon Winner",
+      url: "#",
+      start: "7 November 2024",
+      end: "9 November 2024",
       shortDescription: [
-        "Write modern, performant, maintainable code for a diverse array of client and internal projects",
-        "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify",
-        "Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis",
+        "My team and I won a hackathon at GDG by developing Adhivira, a women's safety app designed to connect women in danger with immediate help.",
+
+"Adhivira uses real-time tracking and emergency alerts to ensure women can quickly reach safety, making it a powerful tool for personal security.",
+
+"This project allowed me to work collaboratively with my team to implement practical solutions and gain hands-on experience in mobile app development and user safety technology.",
       ],
     },
     {
-      name: "Shashaan",
-      role: "Founder",
-      url: "https://www.linkedin.com/company/association-of-computer-engineering-students/",
-      start: "November 2018",
-      end: "November 2021",
+      name: "CUSAT",
+      role: "Student",
+      url: "#",
+      start: " 2023",
+      end: " 2027",
       shortDescription: [
-        "While still a student, I founded a web hosting company that offered affordable hosting services.",
-        "With over 300 customers, the business thrived until I graduated and sold it to another company.",
+"I am currently pursuing a B.Tech in Computer Science and Engineering from the School of Engineering, CUSAT,Kerala",     
+"I am currently in my Second Year.",
+  "The college environment offers me constant opportunities to explore new tech trends and improve my technical abilities, preparing me for future challenges in the industry.",
       ],
     },
   ];
@@ -88,7 +96,7 @@ function Experience() {
       }}
     >
       <div className="title">
-        <h2>Where I&apos;ve Worked</h2>
+        <h2>Experience & Educ.</h2>
       </div>
       <div className="container">
         <ul className="exp-slider">

@@ -2,10 +2,16 @@ import React, { useEffect } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Logo from "./Logo"; // Import the Logo component
 
-function Loader({ isLoading, setIsLoading }: any) {
+// Define a more specific type for the props
+interface LoaderProps {
+  isLoading: boolean;
+  setIsLoading: (state: boolean) => void;
+}
+
+function Loader({ isLoading, setIsLoading }: LoaderProps) {
   useEffect(() => {
     setTimeout(() => {
-      setIsLoading(); // Hide the loader after 1900ms
+      setIsLoading(false); // Hide the loader after 1900ms
     }, 1900);
   }, [setIsLoading]);
 

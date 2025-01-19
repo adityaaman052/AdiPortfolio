@@ -9,10 +9,9 @@ function Projects() {
     {
       image: "/project1.png",
       projectName: "Cheers",
-      projectLink: "#",
       projectDescription:
-     "Cheers is a crowdfunding platform built with Next.js that enables users to raise funds for various causes. It features secure payment integration, allowing seamless contributions, and provides an easy-to-use interface for managing campaigns and donations."   ,
-        projectTech: [
+        "Cheers is a crowdfunding platform built with Next.js that enables users to raise funds for various causes. It features secure payment integration, allowing seamless contributions, and provides an easy-to-use interface for managing campaigns and donations.",
+      projectTech: [
         "Next Js",
         "Redux Toolkit",
         "React",
@@ -28,7 +27,6 @@ function Projects() {
     {
       image: "/project2.png",
       projectName: "Realtime Chat App",
-      projectLink: "#",
       projectDescription:
         "This is a chat app made with React and Node.js that sends real-time messages and is highly scalable. It uses advanced JavaScript concepts like debouncing and is optimized for React. It has 300+ stars on GitHub and over 180k views on YouTube.",
       projectTech: [
@@ -47,7 +45,6 @@ function Projects() {
     {
       image: "/project3.png",
       projectName: "BookStore App",
-      projectLink: "#",
       projectDescription:
         "I created a BookstoreWeb app where users can browse and purchase books, explore genres, and manage their favorites list for easy access to their top picks.",
       projectTech: [
@@ -65,6 +62,7 @@ function Projects() {
       },
     },
   ];
+
   return (
     <div className="projects" id="work">
       <motion.div
@@ -85,7 +83,6 @@ function Projects() {
           ({
             image,
             projectDescription,
-            projectLink,
             projectExternalLinks,
             projectName,
             projectTech,

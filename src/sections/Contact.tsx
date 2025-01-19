@@ -1,6 +1,7 @@
 import Button from "@/components/Button";
 import React from "react";
 import { motion } from "framer-motion";
+
 function Contact() {
   return (
     <motion.div
@@ -18,7 +19,7 @@ function Contact() {
       <h2 className="contact-title">What&apos;s Next?</h2>
       <h2 className="contact-sub-title">Drop a line</h2>
       <p className="contact-text">
-      "Seeking an internship in development to enhance my skills, with a strong foundation in DSA. Contact me for opportunities."
+        &ldquo;Seeking an internship in development to enhance my skills, with a strong foundation in DSA. Contact me for opportunities.&rdquo;
       </p>
       <div className="contact-cta">
         <Button link="mailto:adityaaman.codex@gmail.com" text="Say Hello" />

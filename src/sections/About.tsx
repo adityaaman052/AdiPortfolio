@@ -29,7 +29,7 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Greetings! I'm Aditya Aman. I&rsquo;m passionate about transforming complex ideas into intuitive digital solutions, with a focus on innovation and exceptional user experiences in web development.
+            Greetings! I am Aditya Aman. I am passionate about transforming complex ideas into intuitive digital solutions, with a focus on innovation and exceptional user experiences in web development.
           </p>
           <p className="about-grid-info-text">
             I specialize in React, Node.js, and MongoDB, creating seamless user experiences and robust backend systems. My projects include a{" "}
@@ -39,7 +39,7 @@ function About() {
           </p>
 
           <p className="about-grid-info-text">
-            Beyond coding, I bring strong problem-solving, adaptability, and communication skills to every project. I'm currently exploring advanced technologies like TypeScript, Next.js, and GSAP to refine my craft and embrace new challenges.
+            Beyond coding, I bring strong problem-solving, adaptability, and communication skills to every project. I am currently exploring advanced technologies like TypeScript, Next.js, and GSAP to refine my craft and embrace new challenges.
           </p>
           <p className="about-grid-info-text">
             I am also working on a new project called&nbsp;

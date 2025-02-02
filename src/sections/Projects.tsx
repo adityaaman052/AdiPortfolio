@@ -28,7 +28,7 @@ function Projects() {
       image: "/project2.png",
       projectName: "Realtime Chat App",
       projectDescription:
-        "This is a chat app made with React and Node.js that sends real-time messages and is highly scalable. It uses advanced JavaScript concepts like debouncing and is optimized for React. It has 300+ stars on GitHub and over 180k views on YouTube.",
+        "This is a chat app made with React and Node.js that sends real-time messages and is highly scalable. It uses advanced JavaScript concepts like debouncing and is optimized for React.",
       projectTech: [
         "React",
         "Sockets",

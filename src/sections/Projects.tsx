@@ -39,7 +39,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "https://github.com/adityaaman052/AdityaChat",
-        externalLink: "https://aditya-chat-frontend.vercel.app/",
+        externalLink: "https://aditya-chat-48aq.vercel.app/",
       },
     },
     {

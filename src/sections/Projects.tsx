@@ -42,6 +42,24 @@ function Projects() {
         externalLink: "https://aditya-chat-48aq.vercel.app/",
       },
     },
+     {
+      image: "/project3.png",
+      projectName: "A finance manager app",
+      projectDescription:
+        "This is a finance manager app(fully-responsive) helps to manage you expenses smartly, consist of AI assistance for analyzing your expenses in modern UI Bar graph format and makes your life easier!",
+      projectTech: [
+        "NextJs",
+        "Supabase",
+        "Node.js",
+        "Clerk",
+        "Shadcn",
+        "Styled Components",
+      ],
+      projectExternalLinks: {
+        github: "https://github.com/adityaaman052/AdiFinance",
+        externalLink: "https://adi-finance.vercel.app/",
+      },
+    },
     {
       image: "/project3.png",
       projectName: "BookStore App",

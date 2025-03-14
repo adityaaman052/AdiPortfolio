@@ -81,7 +81,7 @@ function Hero() {
             delay: 1.5,
           }}
         >
-          <Button text="See My Journey" link="#" />
+          <Button text="See My Blogs" link="https://adiblog-213z.vercel.app/" />
         </motion.div>
       </motion.div>
     </div>

@@ -25,7 +25,7 @@ function Projects() {
       },
     },
     {
-      image: "/project1.png",
+      image: "/projectcalc.png",
       projectName: "AI based Calculator",
       projectDescription:
         "Let me present an AI based calculator to help you in solving Math problems seamlessly and make you life easier!",
@@ -38,7 +38,7 @@ function Projects() {
         "Tailwind CSS",
       ],
       projectExternalLinks: {
-        github: "https://github.com/adityaaman052/AdiCalcFrontend",
+        github: "https://github.com/adityaaman052/AdiCalc_frontend",
         externalLink: "https://adi-calc-frontend-6wb6r50cb-aditya-amans-projects.vercel.app/",
       },
     },
@@ -61,7 +61,7 @@ function Projects() {
       },
     },
      {
-      image: "/project3.png",
+      image: "/projectAdiFinance.png",
       projectName: "A finance manager app",
       projectDescription:
         "This is a finance manager app(fully-responsive) helps to manage you expenses smartly, consist of AI assistance for analyzing your expenses in modern UI Bar graph format and makes your life easier!",

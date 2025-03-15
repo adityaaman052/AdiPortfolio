@@ -25,6 +25,24 @@ function Projects() {
       },
     },
     {
+      image: "/project1.png",
+      projectName: "AI based Calculator",
+      projectDescription:
+        "Let me present an AI based calculator to help you in solving Math problems seamlessly and make you life easier!",
+      projectTech: [
+        "Next Js",
+        "Typescript",
+        "React",
+        "Axios",
+        "Mantine UI",
+        "Tailwind CSS",
+      ],
+      projectExternalLinks: {
+        github: "https://github.com/adityaaman052/AdiCalcFrontend",
+        externalLink: "https://adi-calc-frontend-6wb6r50cb-aditya-amans-projects.vercel.app/",
+      },
+    },
+    {
       image: "/project2.png",
       projectName: "Realtime Chat App",
       projectDescription:

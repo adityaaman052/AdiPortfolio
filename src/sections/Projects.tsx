@@ -7,21 +7,21 @@ import { motion } from "framer-motion";
 function Projects() {
   const projectsData = [
     {
-      image: "/project1.png",
-      projectName: "Cheers",
+      image: "/projectAdiFinance.png",
+      projectName: "A finance manager app",
       projectDescription:
-        "Cheers is a crowdfunding platform built with Next.js that enables users to raise funds for various causes. It features secure payment integration, allowing seamless contributions, and provides an easy-to-use interface for managing campaigns and donations.",
+        "This is a finance manager app(fully-responsive) helps to manage you expenses smartly, consist of AI assistance for analyzing your expenses in modern UI Bar graph format and makes your life easier!",
       projectTech: [
-        "Next Js",
-        "Redux Toolkit",
-        "React",
-        "MongoDb",
-        "Razorpay",
-        "Tailwind CSS",
+        "NextJs",
+        "Supabase",
+        "Node.js",
+        "Clerk",
+        "Shadcn",
+        "Styled Components",
       ],
       projectExternalLinks: {
-        github: "https://github.com/adityaaman052/CheersCrowdFunding",
-        externalLink: "",
+        github: "https://github.com/adityaaman052/AdiFinance",
+        externalLink: "https://adi-finance.vercel.app/",
       },
     },
     {
@@ -60,24 +60,27 @@ function Projects() {
         externalLink: "https://aditya-chat-48aq.vercel.app/",
       },
     },
-     {
-      image: "/projectAdiFinance.png",
-      projectName: "A finance manager app",
+    {
+      image: "/project1.png",
+      projectName: "Cheers",
       projectDescription:
-        "This is a finance manager app(fully-responsive) helps to manage you expenses smartly, consist of AI assistance for analyzing your expenses in modern UI Bar graph format and makes your life easier!",
+        "Cheers is a crowdfunding platform built with Next.js that enables users to raise funds for various causes. It features secure payment integration, allowing seamless contributions, and provides an easy-to-use interface for managing campaigns and donations.",
       projectTech: [
-        "NextJs",
-        "Supabase",
-        "Node.js",
-        "Clerk",
-        "Shadcn",
-        "Styled Components",
+        "Next Js",
+        "Redux Toolkit",
+        "React",
+        "MongoDb",
+        "Razorpay",
+        "Tailwind CSS",
       ],
       projectExternalLinks: {
-        github: "https://github.com/adityaaman052/AdiFinance",
-        externalLink: "https://adi-finance.vercel.app/",
+        github: "https://github.com/adityaaman052/CheersCrowdFunding",
+        externalLink: "",
       },
     },
+   
+    
+    
     {
       image: "/project3.png",
       projectName: "BookStore App",

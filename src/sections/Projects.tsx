@@ -75,7 +75,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "https://github.com/adityaaman052/AdiFinance",
-        externalLink: "https://adi-finance-bgqy270sp-aditya-amans-projects.vercel.app/",
+        externalLink: "https://adi-finance.vercel.app/",
       },
     },
     {

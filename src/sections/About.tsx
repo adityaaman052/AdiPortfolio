@@ -57,20 +57,31 @@ function About() {
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>
+            <li className="about-grid-info-list-item">Javascript</li>
+
             <li className="about-grid-info-list-item">Next.js</li>
             <li className="about-grid-info-list-item">GSAP, Framer Motion</li>
+            <li className="about-grid-info-list-item">Responsive design</li>
+            <li className="about-grid-info-list-item">Design Restful APIs</li>
+
             <li className="about-grid-info-list-item">Typescript</li>
             <li className="about-grid-info-list-item">JWT, OAuth</li>
             <li className="about-grid-info-list-item">Tailwind, CSS</li>
             <li className="about-grid-info-list-item">Node.js, Express.js</li>
             <li className="about-grid-info-list-item">Git, Github</li>
             <li className="about-grid-info-list-item">MongoDb, MySQL, Firebase</li>
+            <li className="about-grid-info-list-item">Supabase,Neon</li>
+            <li className="about-grid-info-list-item">PostgreSQL</li>
             <li className="about-grid-info-list-item">Postman</li>
             <li className="about-grid-info-list-item">GraphQL</li>
-            <li className="about-grid-info-list-item">RestAPI, WebSockets</li>
-            <li className="about-grid-info-list-item">JavaScript</li>
+
+            <li className="about-grid-info-list-item">Redux, Mobx</li>
             <li className="about-grid-info-list-item">Java, Python</li>
+            <li className="about-grid-info-list-item">Cloud Platform: AWs</li>
             <li className="about-grid-info-list-item">UI/UX design</li>
+            <li className="about-grid-info-list-item">RestAPI, WebSockets</li>
+            <li className="about-grid-info-list-item">Clerk</li>
+            <li className="about-grid-info-list-item">Backend Optimization</li>
           </ul>
         </div>
         <div className="about-grid-photo">

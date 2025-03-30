@@ -14,7 +14,7 @@ function Projects() {
         "This is a finance manager app (fully-responsive) that helps manage your expenses smartly, with AI assistance for analyzing expenses in a modern UI Bar graph format.",
       projectTech: [
         "NextJs",
-        "Supabase",
+        "NeonDB",
         "Node.js",
         "Clerk",
         "Shadcn",
@@ -23,7 +23,7 @@ function Projects() {
       projectExternalLinks: {
         github: "https://github.com/adityaaman052/AdiFinance",
         externalLink: "https://adi-finance.vercel.app/",
-        pdf: "/pdfs/AdiFinance_Presentation.pdf",
+        pdf: "/pdfs/finance.pdf",
       },
     },
     {
@@ -33,10 +33,11 @@ function Projects() {
         "An AI-based calculator to help you solve math problems seamlessly and make life easier!",
       projectTech: [
         "Next Js",
-        "Typescript",
-        "React",
-        "Axios",
-        "Mantine UI",
+        "GenAI/OCR",
+        "FastAPI ",
+        "Uvicorn (ASGI Server)",
+        "Pillow",
+        "NumPy & Pandas",
         "Tailwind CSS",
       ],
       projectExternalLinks: {
@@ -108,14 +109,17 @@ function Projects() {
       image: "/fragrancia.png",
       projectName: "Fragrancia",
       projectDescription:
-        "A crowdfunding platform built with Next.js for raising funds with secure payment integration.",
+        "A modern perfume e-commerce platform that offers a seamless shopping experience with a visually appealing interface, secure transactions, and efficient order management.",
       projectTech: [
-        "Next Js",
-        "Redux Toolkit",
+        "React",
+        "Cloudinary ",
+        "Multer",
+        "Node.js",
         "React",
         "MongoDb",
-        "Razorpay",
+        "Swiper ",
         "Tailwind CSS",
+        "Framer Motion & GSAP",
       ],
       projectExternalLinks: {
         github: "https://github.com/adityaaman052/CheersCrowdFunding",
